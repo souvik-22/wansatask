@@ -1,0 +1,9 @@
+.todo-container {
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.todo-btn {
+  width: 250px;
+}
